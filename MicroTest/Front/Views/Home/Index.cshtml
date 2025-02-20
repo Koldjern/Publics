@@ -1,0 +1,121 @@
+﻿@model IndexViewModel
+
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-2">
+			<div class="m-3">
+				<vc:product-nav-menu />
+			</div>
+		</div>
+		<div class="col-4">
+			<div class="m-3">
+				<h3>Produkter</h3>
+				@foreach (var p in Model.Products.Values ?? Enumerable.Empty<Product>())
+				{
+					<partial name="Partials\Cards\ProductCard" model="p" />
+				}
+				<div page-model="@Model?.Products.PagingInfo" page-action="Index"
+					 page-name="productPage"
+					 page-class="btn" page-class-normal="btn-outline-dark"
+					 page-class-selected="btn-primary" class="btn-group pull-right m-1"
+					 page-url-category="@Model?.Products.CurrentCategory!"
+					 page-url-education="@Model?.Students.Education!"
+					 page-url-studentPage="@Model?.Students.PagingInfo.CurrentPage!">
+				</div>
+			</div>
+		</div>
+		<div class="col-2 ">
+			<div class="m-3">
+				<vc:student-nav-menu />
+			</div>
+		</div>
+		<div class="col-4">
+			<div class="m-3">
+				<h3>Studerende</h3>
+				<button type="button" class="btn btn-primary" id="OpenCreateStudentModal">
+					Add Student
+				</button>
+				<div id="ModalBox">
+				</div>
+				@foreach (var s in Model?.Students.Values ?? Enumerable.Empty<Student>())
+				{
+					<partial name="Partials\Cards\StudentCard" model="s" />
+					<a class="btn btn-primary editajax" data-email="@s.Email" >Edit</a>
+					<form asp-controller="Students" asp-action="DeleteStudent" asp-route-email="@s.Email" method="post" style="display:inline;">
+						<button type="submit" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete this student?');">Delete</button>
+					</form>
+				}
+				<div page-model="@Model?.Students.PagingInfo" page-action="Index"
+					 page-name="studentPage"
+					 page-class="btn" page-class-normal="btn-outline-dark"
+					 page-class-selected="btn-primary" class="btn-group pull-right m-1"
+					 page-url-category="@Model?.Products.CurrentCategory!"
+					 page-url-education="@Model?.Students.Education!"
+					 page-url-productPage="@Model?.Products.PagingInfo.CurrentPage!">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script>
+	$(document).ready(function () {
+		// Click event to load the modal content
+		$('.editajax').click(function () {
+			var studentemail = $(this).data('email');
+			var options = { "backdrop": "static", keyboard: false };
+			var url = '@Url.Action("UpdateStudentModal", "StudentModal")' + '?email=' + studentemail;
+			// Make an AJAX request to load the partial view
+			$.get(url, function (data) {
+				// Insert the modal HTML into the modal container
+				$('#ModalBox').html(data);
+				// Show the modal
+				$('#StudentModal').modal(options);
+				$('#StudentModal').modal('show');
+
+				// Bind the submit event for the form inside the modal
+				bindStudentFormSubmit();
+			});
+		});
+	});
+	$(document).ready(function () {
+		// Click event to load the modal content
+		$('#OpenCreateStudentModal').click(function () {
+			var options = { "backdrop": "static", keyboard: false };
+			// Make an AJAX request to load the partial view
+			$.get('@Url.Action("CreateStudentModal", "StudentModal")', function (data) {
+				// Insert the modal HTML into the modal container
+				$('#ModalBox').html(data);
+				// Show the modal
+				$('#StudentModal').modal(options);
+				$('#StudentModal').modal('show');
+
+				// Bind the submit event for the form inside the modal
+				bindStudentFormSubmit();
+			});
+		});
+	});
+	// Function to bind the form submission
+	function bindStudentFormSubmit() {
+		$('#StudentForm').off('submit').on('submit', function (event) {
+			event.preventDefault(); // Prevent default form submission
+			$.ajax({
+				url: $(this).attr('action'), // The action URL from the form
+				type: 'POST',
+				data: $(this).serialize(), // Serialize form data
+				success: function (response) {
+					if (!response.success) {
+						alert('wrong input.');
+					}
+					else {
+						window.location.href = response.redirectUrl
+					}
+				},
+				error: function () {
+					// Handle error
+					alert('An error occurred. Please try again.');
+				}
+			});
+		});
+	}
+</script>

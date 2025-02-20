@@ -1,0 +1,82 @@
+﻿@model Pallet
+
+<h1>Create Pallet</h1>
+
+<form asp-action="Create" method="post" class="m-2">
+<div asp-validation-summary="All"></div>
+<table>
+    <tr>
+        <td>
+            <label asp-for="Id">ID</label>
+            <input asp-for="Id" readonly/>
+        </td>
+        <td>
+            <label asp-for="Description">Description</label>
+            <input asp-for="Description" />
+        </td>
+        <td>
+            <label asp-for="PalletMaterial">Material</label>
+            <input asp-for="PalletMaterial" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label asp-for="Dimensions.X">Width</label>
+            <input asp-for="Dimensions.X" />
+        </td>
+        <td>
+            <label asp-for="Dimensions.Y">Height</label>
+            <input asp-for="Dimensions.Y" />
+        </td>
+        <td>
+            <label asp-for="Dimensions.Z">Length</label>
+            <input asp-for="Dimensions.Z" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label asp-for="Weight">Weight</label>
+            <input asp-for="Weight" />
+        </td>
+        <td>
+            <label asp-for="MaxHeight">Max height</label>
+            <input asp-for="MaxHeight" />
+        </td>
+        <td>
+            <label asp-for="MaxWeight">Max weight</label>
+            <input asp-for="MaxWeight" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label asp-for="OverReach">OverReach</label>
+            <input asp-for="OverReach" />
+        </td>
+        <td>
+            <label asp-for="Spots">Spots</label>
+            <input asp-for="Spots" />
+        </td>
+        <td>
+            <label asp-for="SpecialCargo">SpecialCargo</label>
+            <input asp-for="SpecialCargo" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label asp-for="SpaceBetween">SpaceBetween</label>
+            <input asp-for="SpaceBetween" />
+        </td>
+        <td>
+            <label asp-for="PalletGroup">Pallegrouppe</label>
+            <input asp-for="PalletGroup" />
+        </td>
+    </tr>
+</table>
+
+
+
+    <div class="d-flex gap-3">
+        <button class="btn btn-success ms-auto" type="cancel" asp-action="Pallets">Cancel</button>
+        <button class="btn btn-success" type="submit">Create</button>
+    </div>
+</form>

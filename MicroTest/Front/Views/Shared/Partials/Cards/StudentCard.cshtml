@@ -1,0 +1,12 @@
+﻿@model Student
+<div class="card card-outline-primary m-1 p-1">
+	<div class="bg-faded p-1">
+		<h4>
+			@Model?.Name<br>
+			@Model?.Email<br>
+		</h4>
+		<h6>
+			Uddannelse: @Model?.Education Semester: @Model?.Semester
+		</h6>
+	</div>
+</div>

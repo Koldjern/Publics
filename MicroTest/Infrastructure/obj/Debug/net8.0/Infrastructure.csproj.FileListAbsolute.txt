@@ -1,0 +1,36 @@
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date

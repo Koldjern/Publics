@@ -1,0 +1,84 @@
+﻿@model ResultViewModel
+
+@if (Model == null)
+{
+	<div class="content no-orders">
+		<p>No result ready.</p>
+	</div>
+	return;
+}
+<div class="m-1 text-center align-middle">
+
+<h2>Palle Beregnings Resume dette skal bruges</h2><br />
+<div class="split-screen">
+	<div class="left-panel m-1 text-center align-middle resume">
+		<h3>Paller</h3>
+		@foreach (string info in Model.PalletsSummary)
+		{
+			<p>[ @info ]</p>
+		}
+	</div>
+		<div class="right-panel m-1 text-center align-middle resume">
+		<h3>Elementer</h3>
+		@foreach (string info in Model.ElementsSummary)
+		{
+			<span>[ @info ]</span>
+		}
+	</div>
+</div>
+</div>
+<br />
+<br />
+
+@foreach (var group in Model.Result.PackedGroups)
+{
+	<h2>@(group.Group == null ? "Ingen Gruppering" : group.Group.Description)</h2>
+	@foreach (var pallet in group.PackedPallets)
+	{
+		<table class="my-3 p-0">
+			<tbody>
+				@for (int row = pallet.Elements.Max(x => x.Count) - 1; row >= 0; row--)
+				{
+					<tr>
+						@for (int col = 0; col < pallet.Elements.Count(); col++)
+						{
+							@if (pallet.Elements[col].Count > row)
+							{
+								<td class="m-1 text-center align-middle">
+									<p class="element">
+										<b>@("ID: " + pallet.Elements[col][row].Id)</b> &nbsp; &nbsp;
+										@(" V: " + pallet.Elements[col][row].Weight)
+										@(" L: " + pallet.Elements[col][row].GetLength(pallet.Elements[col][row].Rotation))
+									</p>
+								</td>
+							}
+							else
+							{
+								<td></td>
+							}
+						}
+					</tr>
+				}
+			</tbody>
+			<tfoot>
+				<!-- <tr>
+					@for (int i = 0; i < pallet.Elements.Count; i++)
+					{
+						<td class="text-center align-middle"><p>Plads @(i + 1)</p></td> 
+					}
+				</tr> -->
+				<tr>
+					<td class="text-center align-middle" colspan="@pallet.Elements.Count">
+						<p class="palle"><b>Palle ID:</b> @pallet.Id, @pallet.Description, Vægt på pallen: @pallet.Elements.Select((x, index) => pallet.WeightAtSpot(index)).Sum()Kg</p>
+					</td>
+				</tr>
+			</tfoot>
+		</table>
+		<br />
+	}
+}
+
+
+<div class="d-flex justify-content-end gap-3 mt-4">
+	<button onclick="window.print()" style="padding:0px 25px" type="button" class="btn btn-success print" title="print"><i class="bi bi-printer"></i></button>
+</div>

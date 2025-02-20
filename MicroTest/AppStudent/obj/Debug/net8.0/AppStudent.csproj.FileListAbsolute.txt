@@ -1,0 +1,36 @@
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\AppStudent\bin\Debug\net8.0\AppStudent.deps.json
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\AppStudent\bin\Debug\net8.0\AppStudent.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\AppStudent\bin\Debug\net8.0\AppStudent.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\AppStudent\bin\Debug\net8.0\Application.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\AppStudent\bin\Debug\net8.0\Domain.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\AppStudent\bin\Debug\net8.0\Application.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\AppStudent\bin\Debug\net8.0\Domain.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.csproj.AssemblyReference.cache
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.AssemblyInfoInputs.cache
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.AssemblyInfo.cs
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.csproj.CoreCompileInputs.cache
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.sourcelink.json
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.csproj.Up2Date
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\refint\AppStudent.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\ref\AppStudent.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppStudent\bin\Debug\net8.0\AppStudent.deps.json
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppStudent\bin\Debug\net8.0\AppStudent.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppStudent\bin\Debug\net8.0\AppStudent.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppStudent\bin\Debug\net8.0\Application.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppStudent\bin\Debug\net8.0\Domain.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppStudent\bin\Debug\net8.0\Application.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppStudent\bin\Debug\net8.0\Domain.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.csproj.AssemblyReference.cache
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.AssemblyInfoInputs.cache
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.AssemblyInfo.cs
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.csproj.CoreCompileInputs.cache
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.sourcelink.json
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.csproj.Up2Date
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\refint\AppStudent.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\ref\AppStudent.dll

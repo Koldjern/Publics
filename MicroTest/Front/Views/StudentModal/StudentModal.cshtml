@@ -1,0 +1,41 @@
+﻿@model StudentModal
+<div class="modal fade" tabindex="-1" id="StudentModal" aria-labelledby="studentModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title" id="studentModalLabel">@Model.TaskDescription Student</h5>
+			</div>
+			<div class="modal-body" id="ModalBody">
+				<form asp-controller="StudentModal" asp-action="@Model.ActionString" method="post" id="StudentForm">
+					<div class="form-group mb-3">
+						<label asp-for="Student.Name" class="form-label">Name</label>
+						<input asp-for="Student.Name" class="form-control" placeholder="Enter student name" />
+						<span asp-validation-for="Student.Name" class="text-danger"></span>
+					</div>
+
+					<div class="form-group mb-3">
+						<label asp-for="Student.Email" class="form-label">Email</label>
+						<input asp-for="Student.Email" type="email" class="form-control" placeholder="Enter email address" />
+						<span asp-validation-for="Student.Email" class="text-danger"></span>
+					</div>
+
+					<div class="form-group mb-3">
+						<label asp-for="Student.Education" class="form-label">Education</label>
+						<input asp-for="Student.Education" class="form-control" placeholder="Enter education (e.g., Bachelors in CS)" />
+						<span asp-validation-for="Student.Education" class="text-danger"></span>
+					</div>
+
+					<div class="form-group mb-4">
+						<label asp-for="Student.Semester" class="form-label">Semester</label>
+						<input asp-for="Student.Semester" type="number" class="form-control" placeholder="Enter semester number" />
+						<span asp-validation-for="Student.Semester" class="text-danger"></span>
+					</div>
+					<div class="d-flex gap-3">
+						<button type="submit" class="btn btn-success flex-fill">@Model.TaskDescription Student</button>
+						<button type="button" class="btn btn-danger flex-fill" data-bs-dismiss="modal">Cancel</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>

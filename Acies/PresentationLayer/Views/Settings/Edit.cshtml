@@ -1,0 +1,57 @@
+﻿@model SettingsModel
+
+<Form id="settings" asp-action="Edit" method="post">
+	<h3>Opsætning</h3>
+
+	<div class="form-group mb-3">
+		<label asp-for="MaxLayers" class="form-label">Maks Lag</label>
+		<input asp-for="MaxLayers" class="form-control" placeholder="Antal lag" />
+		<span asp-validation-for="MaxLayers" class="text-danger"></span>
+	</div>
+	<div class="form-group mb-3">
+		<label asp-for="MaxSpots" class="form-label">Maks Pladser</label>
+		<input asp-for="MaxSpots" class="form-control" placeholder="Antal pladser" />
+		<span asp-validation-for="MaxSpots" class="text-danger"></span>
+	</div>
+	<div class="form-group mb-3">
+		<label asp-for="MaxTurnableWeight" class="form-label">Maks vendbar vægt (kg)</label>
+		<input asp-for="MaxTurnableWeight" class="form-control" placeholder="max kg" />
+		<span asp-validation-for="MaxTurnableWeight" class="text-danger"></span>
+	</div>
+	<div class="form-group mb-3">
+		<label asp-for="MaxHeightWidthFactor" class="form-label">Maks højde/bredde faktor (Decimal)</label>
+		<input asp-for="MaxHeightWidthFactor" class="form-control" placeholder="Antal faktor decimal" />
+		<span asp-validation-for="MaxHeightWidthFactor" class="text-danger"></span>
+	</div>
+	<div class="form-group mb-3">
+		<label asp-for="FactorOnlySingles" class="form-label">Faktor kun for enkelte elementer</label>
+		<input type="checkbox" asp-for="FactorOnlySingles" class="form-check-input" />
+		<span asp-validation-for="FactorOnlySingles" class="text-danger"></span>
+	</div>
+	<div class="form-group mb-3">
+		<label asp-for="MaxHeightStacking" class="form-label">Maks højde for flere elementer(mm)</label>
+		<input asp-for="MaxHeightStacking" class="form-control" placeholder="maks højde" />
+		<span asp-validation-for="MaxHeightStacking" class="text-danger"></span>
+	</div>
+	<div class="form-group mb-3">
+		<label asp-for="EndBoardThickness" class="form-label">Brædde tykkelse(mm)</label>
+		<input asp-for="EndBoardThickness" class="form-control" placeholder="brædde tykkelse mm" />
+		<span asp-validation-for="EndBoardThickness" class="text-danger"></span>
+	</div>
+	<div class="form-group mb-3">
+		<label asp-for="MaxStackElementWeight" class="form-label">Maks vægt for flere elementer(kg)</label>
+		<input asp-for="MaxStackElementWeight" class="form-control" placeholder="Vægt kg" />
+		<span asp-validation-for="MaxStackElementWeight" class="text-danger"></span>
+	</div>
+	<div class="form-group mb-3">
+		<label asp-for="TurnMaxHeightNonStackables" class="form-label">Tillad at vende over maks højde geometri elementer</label>
+		<input type="checkbox" asp-for="TurnMaxHeightNonStackables" class="form-check-input" />
+		<span asp-validation-for="TurnMaxHeightNonStackables" class="text-danger"></span>
+	</div>
+
+
+	<div class="d-flex justify-content-end gap-3">
+		<a asp-controller="Home" asp-action="Index" type="button" class="btn btn-danger" >Cancel</a>
+		<button type="submit" class="btn btn-success">Opdater Indstillinger</button>
+	</div>
+</Form>

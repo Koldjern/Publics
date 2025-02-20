@@ -1,0 +1,21 @@
+﻿@model Login
+@inject IWebHostEnvironment Environment
+@{
+    ViewData["Title"] = "Login";
+    bool isDevelopment = Environment.IsDevelopment();
+}
+
+
+<form id="login" asp-controller="User" asp-action="Login" method="post">
+    <input type="hidden" asp-for="Url"/>
+    <h2>Login</h2>
+    <div class="form-group mb-3">
+        <label class="form-label" asp-for="Username">Brugernavn:</label>
+        <input class="form-control" asp-for="Username" value="@(isDevelopment ? "Admin" : "")" />
+    </div>
+    <div class="form-group mb-3">
+        <label class="form-label" asp-for="Password">Kodeord:</label>
+        <input class="form-control" asp-for="Password" type="password" value="@(isDevelopment ? "Secret123$" : "")" />
+    </div>
+    <button class="btn ms-auto" type="submit" title="Log ind"><i class="bi bi-box-arrow-in-right"></i></button>
+</form>

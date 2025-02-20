@@ -1,0 +1,61 @@
+﻿@model Pallet
+@{
+}
+<div>
+    <h2>Pallet Profile</h2>
+    
+    <table>
+        <tr>
+            <th>ID</th>
+            <td>@Model.Id</td>
+        </tr>
+        <tr>
+            <th>Beskrivelse</th>
+            <td>@Model.Description</td>
+        </tr>
+        <tr>
+            <th>Materiale</th>
+            <td>@Model.PalletMaterial</td>
+        </tr>
+        <tr>
+            <th>Bredde</th>
+            <td>@Model.Dimensions.X mm</td>
+        </tr>
+        <tr>
+            <th>Højde</th>
+            <td>@Model.Dimensions.Y mm</td>
+        </tr>
+        <tr>
+            <th>Længde</th>
+            <td>@Model.Dimensions.Z mm</td>
+        </tr>
+        <tr>
+            <th>Vægt</th>
+            <td>@Model.Weight kg</td>
+        </tr>
+        <tr>
+            <th>Max højde</th>
+            <td>@Model.MaxHeight mm</td>
+        </tr>
+        <tr>
+            <th>Max vægt </th>
+            <td>@Model.MaxWeight kg</td>
+        </tr>
+        <tr>
+            <th>OverReach</th>
+            <td>@Model.OverReach</td>
+        </tr>
+        <tr>
+            <th>Spots</th>
+            <td>@Model.Spots</td>
+        </tr>
+        <tr>
+            <th>SpecialCargo</th>
+            <td>@Model.SpecialCargo</td>
+        </tr>
+        <tr>
+            <th>SpaceBetween</th>
+            <td>@Model.SpaceBetween mm</td>
+        </tr>
+    </table>
+</div>

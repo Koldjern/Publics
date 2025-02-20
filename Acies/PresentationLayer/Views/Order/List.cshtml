@@ -1,0 +1,73 @@
+﻿@model IEnumerable<Models.Entities.Order>;
+@{
+    var activeOrder = Model.FirstOrDefault(order => order.Id == ViewBag.activeOrderId) ?? Model.FirstOrDefault();
+    ViewBag.activeOrderId = activeOrder.Id;
+}
+@if (Model == null)
+{
+    <div class="content no-orders">
+        <p>Ingen ordre fundet.</p>
+    </div>
+    return;
+}
+<div class="split-screen">
+
+    <div class="left-panel" style="flex-grow:1">
+        <div class="content">
+            <h2>Ordrer</h2>
+            <table class="table table-striped">
+                <thead>
+                    <th>Id</th>
+                    <th>Levering</th>
+                    <th>Elementer</th>
+                    <th>Gruppering</th>
+                </thead>
+                @foreach (var order in Model)
+                {
+                    <tr @(activeOrder?.Id == order.Id ? "class=active" : "class=clickAble")
+                        onclick="window.location.href='@Url.Action("List", "Order", new{id=order.Id})'">
+                        <td>@order.Id</td>
+                        <td>@order.Delivery</td>
+                        <td>@order.Elements.Count</td>
+                        <td>@order.Groups.Count</td>
+                    </tr>
+                 }
+            </table>
+        </div>
+    </div> @* left-panel *@
+
+    <div class="right-panel" style="flex-grow:2">
+        <div class="content">
+            <h2>Elementer</h2>
+            <table class="table table-striped">
+                <thead>
+                <th>Speciel?</th>
+                <th>Vægt</th>
+                <th>Bredde</th>
+                <th>Højde</th>
+                <th>Dybde</th>
+                <th>Batch</th>
+                <th>Kan stakkes?</th>
+                <th>Kvantitet</th>
+                </thead>
+                @foreach (var element in activeOrder.Elements)
+                {
+                    <tr>
+                        <td>@element.SpecialElement</td>
+                        <td>@element.Weight</td>
+                        <td>@element.Dimensions.X</td>
+                        <td>@element.Dimensions.Y</td>
+                        <td>@element.Dimensions.Z</td>
+                        <td>@element.Batch</td>
+                        <td>@element.Stackable</td>
+                        <td>@element.Quantity</td>
+                    </tr>
+                }
+            </table>
+
+        </div>  @*END content*@
+    </div>  @*END right-panel*@
+</div>  @*END split-screen*@
+<div class="d-flex justify-content-end gap-3 mt-4">
+    <a asp-action="Pallets" asp-route-id="@ViewBag.activeOrderId" type="button" class="btn btn-success">Vælg Ordre</a>
+</div>

@@ -1,0 +1,57 @@
+﻿@model PalletsSelectionViewModel;
+
+<form asp-action="Pallets" , method="post">
+	<input type="hidden" asp-for="OrderId" />
+	<h2>Vælg paller</h2>
+	<div asp-validation-summary="All"></div>
+	<table class="table table-striped">
+		<thead>
+			<th>
+				Beskrivelse
+			</th>
+			<th>
+				Max højde
+			</th>
+			<th>
+				Max vægt
+			</th>
+			<th>
+				Materiale
+			</th>
+			<th>
+				<label class="form-check form-check-lg">
+					Tilføj <input type="checkbox" class="form-check-input" onclick="toggleCheckboxes(3, this.checked)" />
+				</label>
+			</th>
+		</thead>
+		@foreach (Pallet p in Model.Pallets ?? Enumerable.Empty<Pallet>())
+		{
+			<tr>
+				<td>@p.Description</td>
+				<td>@p.MaxHeight</td>
+				<td>@p.MaxWeight</td>
+				<td>@p.PalletMaterial</td>
+				<td>
+					<label class="form-check form-check-lg">
+						<Input class="checkbox-column-3" type="checkbox" value=@p.Id name="SelectedIds" />
+					</label>
+				</td>
+			</tr>
+		}
+	</table>
+
+
+	<div class="d-flex justify-content-end gap-3 mt-4">
+		<a asp-action="List" type="button" class="btn btn-danger">Tilbage</a>
+		<button type="submit" class="btn btn-success">Tilføj Paller</button>
+	</div>
+
+</form>
+<script>
+	function toggleCheckboxes(columnIndex, checkAll) {
+		var checkboxes = document.querySelectorAll(`.checkbox-column-${columnIndex}`);
+		checkboxes.forEach(function (checkbox) {
+			checkbox.checked = checkAll;
+		});
+	}
+</script>

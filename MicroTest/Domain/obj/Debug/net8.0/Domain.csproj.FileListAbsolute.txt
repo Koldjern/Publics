@@ -1,0 +1,24 @@
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Domain\obj\Debug\net8.0\ref\Domain.dll

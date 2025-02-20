@@ -1,0 +1,116 @@
+﻿@model OrderEditViewModel;
+
+@if (Model == null)
+{
+	<div class="content no-orders">
+		<p>No order found.</p>
+	</div>
+	return;
+}
+<form asp-action="ElementsEdit" , method="post">
+	<input type="hidden" asp-for="OrderId" />
+	<div asp-validation-summary="All"></div>
+	<h2>Elementer</h2>
+	<label class="form-check form-check-lg">
+		<input type="checkbox" asp-for="GroupByBatch" />Læg sammen baseret på serie
+	</label>
+	<table class="table table-striped">
+		<thead>
+		<th>Id</th>
+		<th>Element Tilhører</th>
+		<th>Antal</th>
+		<th>Roteres</th>
+		<th>Special Palle</th>
+		<th>Kan Stables</th>
+		<th>Max pladser <smaller>(0=ingen)</smaller></th>
+		<th>Tvunget Palle</th>
+		</thead>
+		@for (int i = 0; i < Model.PlacedOrder.Elements.Count; i++)
+		{
+			<tr class="element-list">
+				<td>
+					<input type="hidden" asp-for="PlacedOrder.Elements[i].Id"/>
+					<label>@Model.PlacedOrder.Elements[i].Id</label>
+				</td>
+				<td>Ingen Gruppering</td>
+				<td>
+					<input asp-for="PlacedOrder.Elements[i].Quantity" type="hidden"/>
+					<label>@Model.PlacedOrder.Elements[i].Quantity</label>
+				</td>
+				<td>
+					<select asp-for="PlacedOrder.Elements[i].Turnable">
+						<option value=0>Må</option>
+						<option value=-1>Skal Ikke</option>
+						<option value=1>Skal</option>
+					</select>
+				</td>
+				<td>
+					<label class="form-check form-check-lg">
+						<input asp-for="PlacedOrder.Elements[i].SpecialPallet" type="checkbox" />
+					</label>
+				</td>
+				<td>
+					<label class="form-check form-check-lg">
+						<input asp-for="PlacedOrder.Elements[i].Stackable" type="checkbox" />
+					</label>
+				</td>
+				<td>
+					<input asp-for="PlacedOrder.Elements[i].MaxSpotsOnPallet" type="number" />
+				</td>
+				<td>
+					<select name="PlacedOrder.Elements[i].PalletId" asp-items="@(new SelectList(Model.Pallets, "Id", "Description") )">
+						<option value=@Guid.Empty>Ingen Specifik</option>
+					</select>
+				</td>
+			</tr>
+		}
+		@for (int i = 0; i < Model.PlacedOrder.Groups.Count; i++)
+		{
+			@for (int j = 0; j < Model.PlacedOrder.Groups[i].Elements.Count; j++)
+			{
+				<tr class="element-list">
+					<td>
+						<input type="hidden" asp-for="PlacedOrder.Groups[i].Elements[j].Id" />
+						<label>@Model.PlacedOrder.Groups[i].Elements[j].Id</label>
+					</td>
+					<td>@Model.PlacedOrder.Groups[i].Description</td>
+					<td>
+						<input asp-for="PlacedOrder.Groups[i].Elements[j].Quantity" type="hidden" />
+						<label>@Model.PlacedOrder.Groups[i].Elements[j].Quantity</label>
+					</td>
+					<td>
+						<select asp-for="PlacedOrder.Groups[i].Elements[j].Turnable">
+							<option value=0>Må</option>
+							<option value=-1>Skal Ikke</option>
+							<option value=1>Skal</option>
+						</select>
+					</td>
+					<td>
+						<label class="form-check form-check-lg">
+							<input asp-for="PlacedOrder.Groups[i].Elements[j].SpecialPallet" type="checkbox" />
+						</label>
+					</td>
+					<td>
+						<label class="form-check form-check-lg">
+							<input asp-for="PlacedOrder.Groups[i].Elements[j].Stackable" type="checkbox" />
+						</label>
+					</td>
+					<td>
+						<input asp-for="PlacedOrder.Elements[i].MaxSpotsOnPallet" type="number" />
+					</td>
+					<td>
+						<select name="PlacedOrder.Groups[i].Elements[j].PalletId" asp-items="@(new SelectList(Model.Pallets, "Id", "Description") )">
+							<option value=@Guid.Empty>Ingen Specifik</option>
+						</select>
+					</td>
+				</tr>
+			}
+		}
+	</table>
+
+	<div class="d-flex justify-content-end gap-3 mt-4">
+		<a asp-action="List" type="button" class="btn btn-danger">Tilbage</a>
+		<button type="submit" class="btn btn-success">Beregn</button>
+	</div>
+</form>
+

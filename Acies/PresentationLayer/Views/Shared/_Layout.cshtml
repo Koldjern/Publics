@@ -1,0 +1,57 @@
+﻿@{
+
+	bool logedIn = User.Identity.IsAuthenticated;
+	string? controller = ViewContext.RouteData.Values["controller"]?.ToString();
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>@ViewData["Title"] - Paller</title>
+	<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" />
+
+
+</head>
+
+<body>
+
+	<header class="bar p-2">
+		<section>
+			<nav>
+				<span class="navbar-brand ml-2" asp-action="Index">Acies</span>
+				@if (logedIn)
+				{
+					<a asp-controller="Home" asp-action="Index" title="Gå til forsiden" class="@(controller.Equals("Home")?"activeMenuItem":"")"><i class="bi bi-house@(controller.Equals("Home") ? "-fill" : "")"></i></a>
+					<a asp-controller="Pallet" asp-action="Pallets" class="@(controller.Equals("Pallet")?"activeMenuItem":"")">Paller</a>
+					<a asp-controller="Order" asp-action="List" class="@(controller.Equals("Order")?"activeMenuItem":"")">Ordrer</a>
+					<a asp-controller="Settings" asp-action="Edit" class="@(controller.Equals("Settings")?"activeMenuItem":"")">Opsætning</a>
+
+					<a asp-controller="User" asp-action="Logout" title="Log ud"><i class='bi bi-box-arrow-in-right'></i></a>
+				}
+				
+			</nav>
+		</section>
+	</header>
+
+    <main>
+        <section>
+            @RenderBody()
+        </section>
+	</main>
+
+	<footer>
+		<section>
+			<div class="bar p-2">
+				<small class="m-auto"><i>Et projekt af studiegruppe HAJKS (HP, Anders, Jakob, Karl Emil og Sarah)</i></small>
+			</div>
+		</section>
+	</footer>
+
+</body>
+
+</html>

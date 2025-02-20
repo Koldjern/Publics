@@ -1,0 +1,24 @@
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\EX&STA\bin\Debug\net8.0\EX&STA.deps.json
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\EX&STA\bin\Debug\net8.0\EX&STA.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\EX&STA\bin\Debug\net8.0\EX&STA.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\EX&STA\obj\Debug\net8.0\EX&STA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\EX&STA\obj\Debug\net8.0\EX&STA.AssemblyInfoInputs.cache
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\EX&STA\obj\Debug\net8.0\EX&STA.AssemblyInfo.cs
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\EX&STA\obj\Debug\net8.0\EX&STA.csproj.CoreCompileInputs.cache
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\EX&STA\obj\Debug\net8.0\EX&STA.sourcelink.json
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\EX&STA\obj\Debug\net8.0\EX&STA.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\EX&STA\obj\Debug\net8.0\refint\EX&STA.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\EX&STA\obj\Debug\net8.0\EX&STA.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\EX&STA\obj\Debug\net8.0\ref\EX&STA.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\EX&STA\bin\Debug\net8.0\EX&STA.deps.json
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\EX&STA\bin\Debug\net8.0\EX&STA.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\EX&STA\bin\Debug\net8.0\EX&STA.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\EX&STA\obj\Debug\net8.0\EX&STA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\EX&STA\obj\Debug\net8.0\EX&STA.AssemblyInfoInputs.cache
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\EX&STA\obj\Debug\net8.0\EX&STA.AssemblyInfo.cs
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\EX&STA\obj\Debug\net8.0\EX&STA.csproj.CoreCompileInputs.cache
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\EX&STA\obj\Debug\net8.0\EX&STA.sourcelink.json
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\EX&STA\obj\Debug\net8.0\EX&STA.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\EX&STA\obj\Debug\net8.0\refint\EX&STA.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\EX&STA\obj\Debug\net8.0\EX&STA.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\EX&STA\obj\Debug\net8.0\ref\EX&STA.dll

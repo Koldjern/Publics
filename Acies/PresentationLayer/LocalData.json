@@ -1,0 +1,14 @@
+{
+  "FileTypes": "Default",
+  "PlacementSettings": {
+    "MaxLayers": 5,
+    "MaxSpots": 5,
+    "MaxTurnableWeight": 100,
+    "MaxHeightWidthFactor": 3,
+    "FactorOnlySingles": true,
+    "MaxHeightStacking": 5,
+    "EndBoardThickness": 30,
+    "MaxStackElementWeight": 50,
+    "TurnMaxHeightNonStackables": false
+  }
+}

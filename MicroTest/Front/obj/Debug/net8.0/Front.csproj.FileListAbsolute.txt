@@ -1,0 +1,142 @@
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\appsettings.json
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Front.staticwebassets.runtime.json
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Front.exe
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Front.deps.json
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Front.runtimeconfig.json
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Front.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Front.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Application.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\AppSport.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Domain.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\InfraFront.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Application.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\AppSport.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Domain.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\InfraFront.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.csproj.AssemblyReference.cache
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.AssemblyInfoInputs.cache
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.AssemblyInfo.cs
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.csproj.CoreCompileInputs.cache
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.RazorAssemblyInfo.cache
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.RazorAssemblyInfo.cs
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.sourcelink.json
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\staticwebassets\msbuild.Front.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\staticwebassets\msbuild.build.Front.props
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Front.props
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Front.props
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\scopedcss\bundle\Front.styles.css
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\scopedcss\projectbundle\Front.bundle.scp.css
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.csproj.Up2Date
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\refint\Front.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.genruntimeconfig.cache
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\ref\Front.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\AppStudent.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\EX&STA.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\EX&STA.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\AppStudent.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\AWSSDK.DynamoDBv2.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\appsettings.json
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Front.staticwebassets.runtime.json
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Front.exe
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Front.deps.json
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Front.runtimeconfig.json
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Front.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Front.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\AWSSDK.DynamoDBv2.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Application.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\AppSport.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\AppStudent.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Domain.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\EX&STA.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\InfraFront.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Application.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\AppSport.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Domain.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\EX&STA.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\InfraFront.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\AppStudent.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.csproj.AssemblyReference.cache
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.AssemblyInfoInputs.cache
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.AssemblyInfo.cs
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.csproj.CoreCompileInputs.cache
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.RazorAssemblyInfo.cache
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.RazorAssemblyInfo.cs
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.sourcelink.json
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\staticwebassets\msbuild.Front.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\staticwebassets\msbuild.build.Front.props
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Front.props
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Front.props
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\scopedcss\bundle\Front.styles.css
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\scopedcss\projectbundle\Front.bundle.scp.css
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.csproj.Up2Date
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\refint\Front.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\Front.genruntimeconfig.cache
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\obj\Debug\net8.0\ref\Front.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\Front\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

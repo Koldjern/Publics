@@ -1,0 +1,38 @@
+﻿@page "/admin/orders"
+@inherits OwningComponentBase<IOrderRepository>
+<OrderTable TableTitle="Unshipped Orders"
+			Orders="UnshippedOrders" ButtonLabel="Ship" OrderSelected="ShipOrder" />
+<OrderTable TableTitle="Shipped Orders"
+			Orders="ShippedOrders" ButtonLabel="Reset" OrderSelected="ResetOrder" />
+<button class="btn btn-info" @onclick="@(e => UpdateData())">Refresh Data</button>
+@code {
+	public IOrderRepository Repository => Service;
+	public IEnumerable<Order> AllOrders { get; set; } 
+	= Enumerable.Empty<Order>();
+	public IEnumerable<Order> UnshippedOrders { get; set; }
+	= Enumerable.Empty<Order>();
+	public IEnumerable<Order> ShippedOrders { get; set; }
+	= Enumerable.Empty<Order>();
+	protected async override Task OnInitializedAsync()
+	{
+		await UpdateData();
+	}
+	public async Task UpdateData()
+	{
+		AllOrders = await Repository.Orders();
+		UnshippedOrders = AllOrders.Where(o => !o.Shipped);
+		ShippedOrders = AllOrders.Where(o => o.Shipped);
+	}
+	public async Task ShipOrder(int id) => await UpdateOrder(id, true);
+	public async Task ResetOrder(int id) => await UpdateOrder(id, false);
+	private async Task UpdateOrder(int id, bool shipValue)
+	{
+		Order? o = await Repository.FindOrder(id);
+		if (o != null)
+		{
+			o.Shipped = shipValue;
+			await Repository.EditOrder(o);
+			await UpdateData();
+		}
+	}
+}

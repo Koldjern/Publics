@@ -1,0 +1,48 @@
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\InfraFront.deps.json
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\InfraFront.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\InfraFront.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\Application.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\AppSport.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\Domain.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\Application.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\AppSport.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\Domain.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\obj\Debug\net8.0\InfraFront.csproj.AssemblyReference.cache
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\obj\Debug\net8.0\InfraFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\obj\Debug\net8.0\InfraFront.AssemblyInfoInputs.cache
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\obj\Debug\net8.0\InfraFront.AssemblyInfo.cs
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\obj\Debug\net8.0\InfraFront.csproj.CoreCompileInputs.cache
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\obj\Debug\net8.0\InfraFront.sourcelink.json
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\obj\Debug\net8.0\InfraFront.csproj.Up2Date
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\obj\Debug\net8.0\InfraFront.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\obj\Debug\net8.0\refint\InfraFront.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\obj\Debug\net8.0\InfraFront.pdb
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\obj\Debug\net8.0\ref\InfraFront.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\AppStudent.dll
+C:\Users\ander\Documents\GitHub\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\AppStudent.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\InfraFront.deps.json
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\InfraFront.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\InfraFront.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\Application.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\AppSport.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\AppStudent.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\Domain.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\Application.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\AppSport.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\AppStudent.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\Domain.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\obj\Debug\net8.0\InfraFront.csproj.AssemblyReference.cache
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\obj\Debug\net8.0\InfraFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\obj\Debug\net8.0\InfraFront.AssemblyInfoInputs.cache
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\obj\Debug\net8.0\InfraFront.AssemblyInfo.cs
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\obj\Debug\net8.0\InfraFront.csproj.CoreCompileInputs.cache
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\obj\Debug\net8.0\InfraFront.sourcelink.json
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\obj\Debug\net8.0\InfraFront.csproj.Up2Date
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\obj\Debug\net8.0\InfraFront.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\obj\Debug\net8.0\refint\InfraFront.dll
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\obj\Debug\net8.0\InfraFront.pdb
+C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraFront\obj\Debug\net8.0\ref\InfraFront.dll

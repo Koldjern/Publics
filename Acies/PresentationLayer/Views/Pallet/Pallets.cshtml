@@ -1,0 +1,56 @@
+﻿@model ListPallets
+    
+<div>
+    <h2>Paller</h2>
+    <table class="table table-striped">
+        <thead>
+            <!--<th>
+                ID
+            </th>-->
+            <th>
+                Max højde
+            </th>
+            <th>
+                Max vægt
+            </th>
+            <th>
+                Materiale
+            </th>
+           
+            <th></th><th></th>
+            
+            <th class="button">
+                <!--
+                <a asp-controller="Pallet" asp-action="Create">
+                    <i class="bi bi-plus-square-fill"></i>
+                </a>-->
+            </th> 
+        </thead>
+        @foreach (Pallet p in Model?.Pallets!)
+        {
+        <tr>
+            <!--<td>@p.Id</td>-->
+            <td>@p.MaxHeight</td>
+            <td>@p.MaxWeight</td>
+            <td>@p.PalletMaterial</td>
+            <td>
+                    <a asp-controller="Pallet" asp-action="Profile" asp-route-Id="@p.Id" title="Se alle specifikationer">Detaljer</a>
+            </td>
+            <td class ="button">
+                    <a asp-controller="Pallet" asp-action="Edit" asp-route-Id="@p.Id" title="Rediger palle">
+                        <i class="bi bi-pencil-square"></i>
+                </a>
+            </td>
+            <td class="button">
+                <a asp-action="Delete" asp-route-Id="@p.Id" title="Slet palle" onclick="return confirm('Er du sikker på, at du vil slette denne palle?');">
+                        <i class="bi bi-trash3-fill"></i>
+                </a>
+            </td>
+        </tr>
+        }
+    </table>
+
+    <div class="d-flex gap-3">
+        <a class="btn btn-success ms-auto"  asp-controller="Pallet" asp-action="Create">Tilføj palle</a>
+    </div>
+</div>

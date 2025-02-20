@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8UvnbztNFAc=",
+  "dgSpecHash": "E3ioxpayXS4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Anders Søndergaard\\Desktop\\JAVA\\JavaHomeWork\\S3\\C#\\MicroTest\\AppStudent\\AppStudent.csproj",
+  "projectFilePath": "B:\\Git\\Publics\\MicroTest\\AppStudent\\AppStudent.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anders Søndergaard\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.10\\microsoft.entityframeworkcore.8.0.10.nupkg.sha512",
     "C:\\Users\\Anders Søndergaard\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.10\\microsoft.entityframeworkcore.abstractions.8.0.10.nupkg.sha512",

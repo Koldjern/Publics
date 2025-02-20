@@ -1,0 +1,260 @@
+.mainPane {
+    -fx-alignment: BASELINE;
+
+    -fx-background-image: url("background.jpg");
+    -fx-background-size: cover; 
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+.rightContainer {
+    -fx-alignment: TOP_RIGHT;
+}
+.leftContainer {
+    -fx-alignment: TOP_LEFT;
+}
+.mainPane .center {
+    -fx-alignment: CENTER;
+
+}
+.mainPane .top, .root .left, .root .right, .root .bottom {
+    -fx-alignment: CENTER;
+}
+.employees {
+    -fx-alignment: CENTER;
+
+}
+.login Label {
+    -fx-text-fill: white; 
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.75), 10, 0.5, 0, 0);
+}
+.topbar {
+    -fx-alignment: TOP_RIGHT;
+    -fx-max-height: 100;
+    -fx-effect: dropshadow(three-pass-box, rgba(230,230,230,230), 5, 0, 0, 0);
+    -fx-background-color: linear-gradient(to bottom, #141414, #d9dadb);
+}
+.login {
+    -fx-padding: 100;
+}
+.navBar {
+    -fx-background-color: linear-gradient(to right, #1b1b1b, #555557);
+}
+.buttonBar {
+    -fx-background-color: linear-gradient(from 0% 0% to 0% 100%, 
+                                          #94949400 0%,   
+                                          #8d8d8d 20%,   
+                                          #3d3d3d 80%,   
+                                          #7c7c7c00 100%
+                                          ); 
+    -fx-alignment: CENTER;
+}
+.navButton {
+    -fx-padding: 20;
+    -fx-spacing: 20;
+}
+VBox {
+    -fx-alignment: CENTER;
+}
+HBox {
+    -fx-alignment: CENTER;
+}
+.cellCheck {
+    -fx-border-color:black; 
+    -fx-border-radius: 10px;
+    -fx-background-color: rgb(240, 240, 240); 
+    -fx-border-width: 2;
+    -fx-background-radius: 10px; 
+}
+.cellCheck .box {
+    -fx-min-width: 30;
+    -fx-min-height: 30;
+    
+}
+.cellCheck .text {
+    -fx-font-size: 20;
+}
+.cellCheck .mark {
+    -fx-min-width: 30;
+    -fx-min-height: 30;
+}
+.cellCheck:selected .mark {
+    -fx-text-fill: #00d80b; 
+}
+
+.cellCheck:selected .box {
+    -fx-background-color: rgb(240, 240, 240);
+}
+.Modal{
+    -fx-background-radius: 45px;
+    -fx-effect: dropshadow(three-pass-box, rgba(189, 189, 189, 0.8), 10, 0, 0, 0);
+    -fx-background-insets: 10px;
+    -fx-padding: 30;
+    -fx-background-color: black;
+    -fx-border-insets: 10px;
+    -fx-border-radius: 39px;
+    -fx-border-width: 5px;
+    -fx-border-color: whitesmoke;
+    -fx-border-style: solid inside;
+}
+.Modal HBox {
+    -fx-alignment: center-right;
+}
+Label {
+    -fx-font-size: 16px;
+    -fx-text-fill: whitesmoke;
+    -fx-font-weight: bold;
+    -fx-padding: 5;
+}
+TextField , PasswordField {
+    -fx-font-size: 20px;
+    -fx-border-color:black; 
+    -fx-border-radius: 10px;
+    -fx-background-color: rgb(240, 240, 240); 
+    -fx-border-width: 2;
+    -fx-background-radius: 10px; 
+    -fx-text-fill: #000000; 
+    -fx-background-insets: 0, 1; 
+}
+ComboBox {
+    -fx-font-size: 20px;
+    -fx-border-color:black; 
+    -fx-border-radius: 10px;
+    -fx-background-color: rgb(240, 240, 240); 
+    -fx-border-width: 2;
+    -fx-text-fill: #000000; 
+    -fx-background-insets: 0, 1; 
+    -fx-background-radius: 10px; 
+}
+
+DatePicker {
+    -fx-font-size: 20px;
+    -fx-border-color:black; 
+    -fx-border-radius: 10px;
+    -fx-background-color: rgb(240, 240, 240); 
+    -fx-border-width: 2;
+    -fx-text-fill: #000000; 
+    -fx-background-insets: 0, 1; 
+    -fx-background-radius: 10px; 
+}
+.text-field:readonly {
+    -fx-border-color:white; 
+    -fx-background-color: rgba(240, 240, 240, 0.281); 
+    -fx-text-fill:rgb(255, 255, 255); 
+}
+
+DatePicker:disabled {
+    -fx-opacity: 1;
+    -fx-border-color:white; 
+    -fx-background-color: rgba(240, 240, 240, 0.281);  
+}
+DatePicker .text-field {
+    -fx-border-color:transparent; 
+}
+DatePicker:disabled .text-field {
+    -fx-text-fill:rgb(255, 255, 255); 
+}
+#IDLogin {
+    -fx-text-fill: rgb(219, 253, 24);
+}
+#IDLogin:hover {
+    -fx-transition: background-color 0.4s, -fx-effect 0.4s;
+    -fx-text-fill: rgb(215, 253, 0);
+    -fx-effect: dropshadow(gaussian, rgba(200, 255, 0, 0.75), 10, 0.5, 0, 0); 
+}
+.optionButton:hover, #IDoptionButton:hover {
+    -fx-transition: background-color 0.4s, -fx-effect 0.4s;
+    -fx-text-fill: rgb(156, 157, 255);
+    -fx-effect: dropshadow(gaussian, rgba(32, 19, 214, 0.75), 10, 0.3, 0, 0);
+}
+
+.declineButton:hover, #IDdeclineButton:hover {
+    -fx-transition: background-color 0.4s, -fx-effect 0.4s;
+    -fx-text-fill: rgb(228, 150, 150);
+    -fx-effect: dropshadow(gaussian, rgba(218, 75, 9, 0.75), 10, 0.3, 0, 0);
+}
+
+.acceptButton:hover, #IDacceptButton:hover {
+    -fx-transition: background-color 0.4s, -fx-effect 0.4s;
+    -fx-text-fill: rgb(160, 250, 152);
+    -fx-effect: dropshadow(gaussian, rgba(0, 190, 25, 0.75), 10, 0.3, 0, 0);
+}
+.cellButton {
+    -fx-font-size: 20px;
+    -fx-border-color: transparent; 
+    -fx-background-color: transparent;
+    -fx-font-family: "Arial";
+    -fx-border-width: 0;           
+    -fx-background-radius: 0;      
+    -fx-padding: 20;                
+    -fx-background-insets: 0;   
+}
+.cellButton:hover{
+    -fx-transition: background-color 0.4s, -fx-effect 0.4s;
+}
+Button, .niceButton {
+    -fx-font-size: 30px;
+    -fx-text-fill: rgb(197, 197, 197);
+    -fx-background-color: transparent;
+    -fx-font-family: "Arial";
+}
+Button, .niceButton{
+    -fx-effect: dropshadow(gaussian, rgba(138, 138, 138, 0.75), 10, 0.5, 0, 0);
+}
+Button:hover, .niceButton:hover{
+    -fx-transition: background-color 0.4s, -fx-effect 0.4s;
+    -fx-text-fill: rgb(255, 255, 255);
+    -fx-effect: dropshadow(gaussian, rgba(221, 221, 221, 0.75), 10, 0.5, 0, 0);
+}
+Glyph {
+    -fx-scale-x: 3;
+    -fx-scale-y: 3;
+    -fx-text-fill: whitesmoke;
+}
+.table-view .column-header-background .filler {
+    -fx-background-color: white;
+}
+
+.column-header {
+    -fx-border-color:black; 
+    -fx-border-width: 1;
+    -fx-background-color: rgb(240, 240, 240); 
+}
+.table-view .column-header .label {
+    -fx-font-size: 20px;
+    -fx-text-fill: #000000; 
+    -fx-font-weight: bold;
+}
+.table-view .table-row-cell:odd {
+    -fx-background-color: rgb(182, 182, 182);
+}
+
+.table-view .table-row-cell:even {
+    -fx-background-color: white;
+}
+
+.table-cell {
+    -fx-alignment: Center;
+}
+.bigTable {
+    -fx-background-color: transparent;
+}
+
+.tableInCell {
+    -fx-pref-height: 150;
+}
+.tablecell {
+    -fx-pref-height: 150;
+}
+.table-view .table-row-cell:odd:empty,  .table-view .table-row-cell:even:empty{
+    -fx-background-color: transparent;
+    -fx-pref-height: 5;
+    -fx-min-height: 5;
+    -fx-max-height: 5;
+}
+.table-view .table-row-cell:odd .table-cell:empty, .table-view .table-row-cell:even .table-cell:empty  {
+    -fx-border-width: 0px;
+    -fx-pref-height: 5;
+    -fx-min-height: 5;
+    -fx-max-height: 5;
+}
+

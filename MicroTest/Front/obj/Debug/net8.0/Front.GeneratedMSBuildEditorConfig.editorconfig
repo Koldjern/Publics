@@ -9,103 +9,103 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Front
 build_property.RootNamespace = Front
-build_property.ProjectDir = C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front\
+build_property.ProjectDir = B:\Git\Publics\MicroTest\Front\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Front
+build_property.MSBuildProjectDirectory = B:\Git\Publics\MicroTest\Front
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Anders Søndergaard/Desktop/JAVA/JavaHomeWork/S3/C\#/MicroTest/Front/Pages/Admin/AdminLayout.razor]
+[B:/Git/Publics/MicroTest/Front/Pages/Admin/AdminLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRtaW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anders Søndergaard/Desktop/JAVA/JavaHomeWork/S3/C\#/MicroTest/Front/Pages/Admin/Orders.razor]
+[B:/Git/Publics/MicroTest/Front/Pages/Admin/Orders.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cT3JkZXJzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anders Søndergaard/Desktop/JAVA/JavaHomeWork/S3/C\#/MicroTest/Front/Pages/Admin/OrderTable.razor]
+[B:/Git/Publics/MicroTest/Front/Pages/Admin/OrderTable.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cT3JkZXJUYWJsZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anders Søndergaard/Desktop/JAVA/JavaHomeWork/S3/C\#/MicroTest/Front/Pages/Admin/Products.razor]
+[B:/Git/Publics/MicroTest/Front/Pages/Admin/Products.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHJvZHVjdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anders Søndergaard/Desktop/JAVA/JavaHomeWork/S3/C\#/MicroTest/Front/Pages/Admin/Routed.razor]
+[B:/Git/Publics/MicroTest/Front/Pages/Admin/Routed.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUm91dGVkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anders Søndergaard/Desktop/JAVA/JavaHomeWork/S3/C\#/MicroTest/Front/Pages/Admin/_Imports.razor]
+[B:/Git/Publics/MicroTest/Front/Pages/Admin/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cX0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anders Søndergaard/Desktop/JAVA/JavaHomeWork/S3/C\#/MicroTest/Front/Pages/Admin/Index.cshtml]
+[B:/Git/Publics/MicroTest/Front/Pages/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anders Søndergaard/Desktop/JAVA/JavaHomeWork/S3/C\#/MicroTest/Front/Pages/Carts/Cart.cshtml]
+[B:/Git/Publics/MicroTest/Front/Pages/Carts/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydHNcQ2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anders Søndergaard/Desktop/JAVA/JavaHomeWork/S3/C\#/MicroTest/Front/Pages/Carts/Completed.cshtml]
+[B:/Git/Publics/MicroTest/Front/Pages/Carts/Completed.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydHNcQ29tcGxldGVkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anders Søndergaard/Desktop/JAVA/JavaHomeWork/S3/C\#/MicroTest/Front/Pages/_CartLayout.cshtml]
+[B:/Git/Publics/MicroTest/Front/Pages/_CartLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0NhcnRMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anders Søndergaard/Desktop/JAVA/JavaHomeWork/S3/C\#/MicroTest/Front/Pages/_ViewImports.cshtml]
+[B:/Git/Publics/MicroTest/Front/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anders Søndergaard/Desktop/JAVA/JavaHomeWork/S3/C\#/MicroTest/Front/Pages/_ViewStart.cshtml]
+[B:/Git/Publics/MicroTest/Front/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anders Søndergaard/Desktop/JAVA/JavaHomeWork/S3/C\#/MicroTest/Front/Views/Home/Index.cshtml]
+[B:/Git/Publics/MicroTest/Front/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anders Søndergaard/Desktop/JAVA/JavaHomeWork/S3/C\#/MicroTest/Front/Views/Order/Checkout.cshtml]
+[B:/Git/Publics/MicroTest/Front/Views/Order/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ2hlY2tvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anders Søndergaard/Desktop/JAVA/JavaHomeWork/S3/C\#/MicroTest/Front/Views/Shared/Components/CartSummary/Default.cshtml]
+[B:/Git/Publics/MicroTest/Front/Views/Shared/Components/CartSummary/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FydFN1bW1hcnlcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anders Søndergaard/Desktop/JAVA/JavaHomeWork/S3/C\#/MicroTest/Front/Views/Shared/Components/ProductNavMenu/Default.cshtml]
+[B:/Git/Publics/MicroTest/Front/Views/Shared/Components/ProductNavMenu/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvZHVjdE5hdk1lbnVcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anders Søndergaard/Desktop/JAVA/JavaHomeWork/S3/C\#/MicroTest/Front/Views/Shared/Components/StudentNavMenu/Default.cshtml]
+[B:/Git/Publics/MicroTest/Front/Views/Shared/Components/StudentNavMenu/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU3R1ZGVudE5hdk1lbnVcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anders Søndergaard/Desktop/JAVA/JavaHomeWork/S3/C\#/MicroTest/Front/Views/Shared/Partials/Cards/ProductCard.cshtml]
+[B:/Git/Publics/MicroTest/Front/Views/Shared/Partials/Cards/ProductCard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXENhcmRzXFByb2R1Y3RDYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anders Søndergaard/Desktop/JAVA/JavaHomeWork/S3/C\#/MicroTest/Front/Views/Shared/Partials/Cards/StudentCard.cshtml]
+[B:/Git/Publics/MicroTest/Front/Views/Shared/Partials/Cards/StudentCard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXENhcmRzXFN0dWRlbnRDYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anders Søndergaard/Desktop/JAVA/JavaHomeWork/S3/C\#/MicroTest/Front/Views/StudentModal/StudentModal.cshtml]
+[B:/Git/Publics/MicroTest/Front/Views/StudentModal/StudentModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudE1vZGFsXFN0dWRlbnRNb2RhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anders Søndergaard/Desktop/JAVA/JavaHomeWork/S3/C\#/MicroTest/Front/Views/_ViewImports.cshtml]
+[B:/Git/Publics/MicroTest/Front/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anders Søndergaard/Desktop/JAVA/JavaHomeWork/S3/C\#/MicroTest/Front/Views/_ViewStart.cshtml]
+[B:/Git/Publics/MicroTest/Front/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anders Søndergaard/Desktop/JAVA/JavaHomeWork/S3/C\#/MicroTest/Front/Views/Shared/_Layout.cshtml]
+[B:/Git/Publics/MicroTest/Front/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-t8914vyvcc

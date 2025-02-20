@@ -22,3 +22,15 @@ C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Domain\ob
 C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\Domain\obj\Debug\net8.0\ref\Domain.dll
+B:\Git\Publics\MicroTest\Domain\bin\Debug\net8.0\Domain.deps.json
+B:\Git\Publics\MicroTest\Domain\bin\Debug\net8.0\Domain.dll
+B:\Git\Publics\MicroTest\Domain\bin\Debug\net8.0\Domain.pdb
+B:\Git\Publics\MicroTest\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+B:\Git\Publics\MicroTest\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+B:\Git\Publics\MicroTest\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+B:\Git\Publics\MicroTest\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+B:\Git\Publics\MicroTest\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+B:\Git\Publics\MicroTest\Domain\obj\Debug\net8.0\Domain.dll
+B:\Git\Publics\MicroTest\Domain\obj\Debug\net8.0\refint\Domain.dll
+B:\Git\Publics\MicroTest\Domain\obj\Debug\net8.0\Domain.pdb
+B:\Git\Publics\MicroTest\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -22,3 +22,15 @@ C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\EX&STA\ob
 C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\EX&STA\obj\Debug\net8.0\refint\EX&STA.dll
 C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\EX&STA\obj\Debug\net8.0\EX&STA.pdb
 C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\EX&STA\obj\Debug\net8.0\ref\EX&STA.dll
+B:\Git\Publics\MicroTest\EX&STA\bin\Debug\net8.0\EX&STA.deps.json
+B:\Git\Publics\MicroTest\EX&STA\bin\Debug\net8.0\EX&STA.dll
+B:\Git\Publics\MicroTest\EX&STA\bin\Debug\net8.0\EX&STA.pdb
+B:\Git\Publics\MicroTest\EX&STA\obj\Debug\net8.0\EX&STA.GeneratedMSBuildEditorConfig.editorconfig
+B:\Git\Publics\MicroTest\EX&STA\obj\Debug\net8.0\EX&STA.AssemblyInfoInputs.cache
+B:\Git\Publics\MicroTest\EX&STA\obj\Debug\net8.0\EX&STA.AssemblyInfo.cs
+B:\Git\Publics\MicroTest\EX&STA\obj\Debug\net8.0\EX&STA.csproj.CoreCompileInputs.cache
+B:\Git\Publics\MicroTest\EX&STA\obj\Debug\net8.0\EX&STA.sourcelink.json
+B:\Git\Publics\MicroTest\EX&STA\obj\Debug\net8.0\EX&STA.dll
+B:\Git\Publics\MicroTest\EX&STA\obj\Debug\net8.0\refint\EX&STA.dll
+B:\Git\Publics\MicroTest\EX&STA\obj\Debug\net8.0\EX&STA.pdb
+B:\Git\Publics\MicroTest\EX&STA\obj\Debug\net8.0\ref\EX&STA.dll

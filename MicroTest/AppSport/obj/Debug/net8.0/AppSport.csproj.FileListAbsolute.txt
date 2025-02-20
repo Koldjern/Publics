@@ -34,3 +34,21 @@ C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppSport\
 C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppSport\obj\Debug\net8.0\refint\AppSport.dll
 C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppSport\obj\Debug\net8.0\AppSport.pdb
 C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppSport\obj\Debug\net8.0\ref\AppSport.dll
+B:\Git\Publics\MicroTest\AppSport\bin\Debug\net8.0\AppSport.deps.json
+B:\Git\Publics\MicroTest\AppSport\bin\Debug\net8.0\AppSport.dll
+B:\Git\Publics\MicroTest\AppSport\bin\Debug\net8.0\AppSport.pdb
+B:\Git\Publics\MicroTest\AppSport\bin\Debug\net8.0\Application.dll
+B:\Git\Publics\MicroTest\AppSport\bin\Debug\net8.0\Domain.dll
+B:\Git\Publics\MicroTest\AppSport\bin\Debug\net8.0\Application.pdb
+B:\Git\Publics\MicroTest\AppSport\bin\Debug\net8.0\Domain.pdb
+B:\Git\Publics\MicroTest\AppSport\obj\Debug\net8.0\AppSport.csproj.AssemblyReference.cache
+B:\Git\Publics\MicroTest\AppSport\obj\Debug\net8.0\AppSport.GeneratedMSBuildEditorConfig.editorconfig
+B:\Git\Publics\MicroTest\AppSport\obj\Debug\net8.0\AppSport.AssemblyInfoInputs.cache
+B:\Git\Publics\MicroTest\AppSport\obj\Debug\net8.0\AppSport.AssemblyInfo.cs
+B:\Git\Publics\MicroTest\AppSport\obj\Debug\net8.0\AppSport.csproj.CoreCompileInputs.cache
+B:\Git\Publics\MicroTest\AppSport\obj\Debug\net8.0\AppSport.sourcelink.json
+B:\Git\Publics\MicroTest\AppSport\obj\Debug\net8.0\AppSport.csproj.Up2Date
+B:\Git\Publics\MicroTest\AppSport\obj\Debug\net8.0\AppSport.dll
+B:\Git\Publics\MicroTest\AppSport\obj\Debug\net8.0\refint\AppSport.dll
+B:\Git\Publics\MicroTest\AppSport\obj\Debug\net8.0\AppSport.pdb
+B:\Git\Publics\MicroTest\AppSport\obj\Debug\net8.0\ref\AppSport.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anders Søndergaard\\Desktop\\JAVA\\JavaHomeWork\\S3\\C#\\MicroTest\\EX&STA\\EX&STA.csproj",
+      "projectUniqueName": "B:\\Git\\Publics\\MicroTest\\EX&STA\\EX&STA.csproj",
       "projectName": "EX&STA",
-      "projectPath": "C:\\Users\\Anders Søndergaard\\Desktop\\JAVA\\JavaHomeWork\\S3\\C#\\MicroTest\\EX&STA\\EX&STA.csproj",
+      "projectPath": "B:\\Git\\Publics\\MicroTest\\EX&STA\\EX&STA.csproj",
       "packagesPath": "C:\\Users\\Anders Søndergaard\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anders Søndergaard\\Desktop\\JAVA\\JavaHomeWork\\S3\\C#\\MicroTest\\EX&STA\\obj\\",
+      "outputPath": "B:\\Git\\Publics\\MicroTest\\EX&STA\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BV1/kklYuXA=",
+  "dgSpecHash": "NzJKwhKkfyM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Anders Søndergaard\\Desktop\\JAVA\\JavaHomeWork\\S3\\C#\\MicroTest\\Application\\Application.csproj",
+  "projectFilePath": "B:\\Git\\Publics\\MicroTest\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anders Søndergaard\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.1.2\\microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
     "C:\\Users\\Anders Søndergaard\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.1.2\\microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",

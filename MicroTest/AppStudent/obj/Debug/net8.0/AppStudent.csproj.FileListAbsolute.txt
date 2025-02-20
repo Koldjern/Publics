@@ -34,3 +34,21 @@ C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppStuden
 C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\refint\AppStudent.dll
 C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.pdb
 C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\AppStudent\obj\Debug\net8.0\ref\AppStudent.dll
+B:\Git\Publics\MicroTest\AppStudent\bin\Debug\net8.0\AppStudent.deps.json
+B:\Git\Publics\MicroTest\AppStudent\bin\Debug\net8.0\AppStudent.dll
+B:\Git\Publics\MicroTest\AppStudent\bin\Debug\net8.0\AppStudent.pdb
+B:\Git\Publics\MicroTest\AppStudent\bin\Debug\net8.0\Application.dll
+B:\Git\Publics\MicroTest\AppStudent\bin\Debug\net8.0\Domain.dll
+B:\Git\Publics\MicroTest\AppStudent\bin\Debug\net8.0\Application.pdb
+B:\Git\Publics\MicroTest\AppStudent\bin\Debug\net8.0\Domain.pdb
+B:\Git\Publics\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.csproj.AssemblyReference.cache
+B:\Git\Publics\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.GeneratedMSBuildEditorConfig.editorconfig
+B:\Git\Publics\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.AssemblyInfoInputs.cache
+B:\Git\Publics\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.AssemblyInfo.cs
+B:\Git\Publics\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.csproj.CoreCompileInputs.cache
+B:\Git\Publics\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.sourcelink.json
+B:\Git\Publics\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.csproj.Up2Date
+B:\Git\Publics\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.dll
+B:\Git\Publics\MicroTest\AppStudent\obj\Debug\net8.0\refint\AppStudent.dll
+B:\Git\Publics\MicroTest\AppStudent\obj\Debug\net8.0\AppStudent.pdb
+B:\Git\Publics\MicroTest\AppStudent\obj\Debug\net8.0\ref\AppStudent.dll

@@ -46,3 +46,27 @@ C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraSpor
 C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraSport\obj\Debug\net8.0\InfraSport.pdb
 C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraSport\obj\Debug\net8.0\InfraSport.genruntimeconfig.cache
 C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraSport\obj\Debug\net8.0\ref\InfraSport.dll
+B:\Git\Publics\MicroTest\InfraSport\bin\Debug\net8.0\InfraSport.deps.json
+B:\Git\Publics\MicroTest\InfraSport\bin\Debug\net8.0\InfraSport.runtimeconfig.json
+B:\Git\Publics\MicroTest\InfraSport\bin\Debug\net8.0\InfraSport.dll
+B:\Git\Publics\MicroTest\InfraSport\bin\Debug\net8.0\InfraSport.pdb
+B:\Git\Publics\MicroTest\InfraSport\bin\Debug\net8.0\Application.dll
+B:\Git\Publics\MicroTest\InfraSport\bin\Debug\net8.0\AppSport.dll
+B:\Git\Publics\MicroTest\InfraSport\bin\Debug\net8.0\Domain.dll
+B:\Git\Publics\MicroTest\InfraSport\bin\Debug\net8.0\Infrastructure.dll
+B:\Git\Publics\MicroTest\InfraSport\bin\Debug\net8.0\Application.pdb
+B:\Git\Publics\MicroTest\InfraSport\bin\Debug\net8.0\AppSport.pdb
+B:\Git\Publics\MicroTest\InfraSport\bin\Debug\net8.0\Domain.pdb
+B:\Git\Publics\MicroTest\InfraSport\bin\Debug\net8.0\Infrastructure.pdb
+B:\Git\Publics\MicroTest\InfraSport\obj\Debug\net8.0\InfraSport.csproj.AssemblyReference.cache
+B:\Git\Publics\MicroTest\InfraSport\obj\Debug\net8.0\InfraSport.GeneratedMSBuildEditorConfig.editorconfig
+B:\Git\Publics\MicroTest\InfraSport\obj\Debug\net8.0\InfraSport.AssemblyInfoInputs.cache
+B:\Git\Publics\MicroTest\InfraSport\obj\Debug\net8.0\InfraSport.AssemblyInfo.cs
+B:\Git\Publics\MicroTest\InfraSport\obj\Debug\net8.0\InfraSport.csproj.CoreCompileInputs.cache
+B:\Git\Publics\MicroTest\InfraSport\obj\Debug\net8.0\InfraSport.sourcelink.json
+B:\Git\Publics\MicroTest\InfraSport\obj\Debug\net8.0\InfraSport.csproj.Up2Date
+B:\Git\Publics\MicroTest\InfraSport\obj\Debug\net8.0\InfraSport.dll
+B:\Git\Publics\MicroTest\InfraSport\obj\Debug\net8.0\refint\InfraSport.dll
+B:\Git\Publics\MicroTest\InfraSport\obj\Debug\net8.0\InfraSport.pdb
+B:\Git\Publics\MicroTest\InfraSport\obj\Debug\net8.0\InfraSport.genruntimeconfig.cache
+B:\Git\Publics\MicroTest\InfraSport\obj\Debug\net8.0\ref\InfraSport.dll

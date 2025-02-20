@@ -42,3 +42,25 @@ C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraStud
 C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraStudent\obj\Debug\net8.0\refint\InfraStudent.dll
 C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraStudent\obj\Debug\net8.0\InfraStudent.pdb
 C:\Users\Anders Søndergaard\Desktop\JAVA\JavaHomeWork\S3\C#\MicroTest\InfraStudent\obj\Debug\net8.0\ref\InfraStudent.dll
+B:\Git\Publics\MicroTest\InfraStudent\bin\Debug\net8.0\InfraStudent.deps.json
+B:\Git\Publics\MicroTest\InfraStudent\bin\Debug\net8.0\InfraStudent.dll
+B:\Git\Publics\MicroTest\InfraStudent\bin\Debug\net8.0\InfraStudent.pdb
+B:\Git\Publics\MicroTest\InfraStudent\bin\Debug\net8.0\Application.dll
+B:\Git\Publics\MicroTest\InfraStudent\bin\Debug\net8.0\AppStudent.dll
+B:\Git\Publics\MicroTest\InfraStudent\bin\Debug\net8.0\Domain.dll
+B:\Git\Publics\MicroTest\InfraStudent\bin\Debug\net8.0\Infrastructure.dll
+B:\Git\Publics\MicroTest\InfraStudent\bin\Debug\net8.0\Application.pdb
+B:\Git\Publics\MicroTest\InfraStudent\bin\Debug\net8.0\AppStudent.pdb
+B:\Git\Publics\MicroTest\InfraStudent\bin\Debug\net8.0\Domain.pdb
+B:\Git\Publics\MicroTest\InfraStudent\bin\Debug\net8.0\Infrastructure.pdb
+B:\Git\Publics\MicroTest\InfraStudent\obj\Debug\net8.0\InfraStudent.csproj.AssemblyReference.cache
+B:\Git\Publics\MicroTest\InfraStudent\obj\Debug\net8.0\InfraStudent.GeneratedMSBuildEditorConfig.editorconfig
+B:\Git\Publics\MicroTest\InfraStudent\obj\Debug\net8.0\InfraStudent.AssemblyInfoInputs.cache
+B:\Git\Publics\MicroTest\InfraStudent\obj\Debug\net8.0\InfraStudent.AssemblyInfo.cs
+B:\Git\Publics\MicroTest\InfraStudent\obj\Debug\net8.0\InfraStudent.csproj.CoreCompileInputs.cache
+B:\Git\Publics\MicroTest\InfraStudent\obj\Debug\net8.0\InfraStudent.sourcelink.json
+B:\Git\Publics\MicroTest\InfraStudent\obj\Debug\net8.0\InfraStu.AB6D64AD.Up2Date
+B:\Git\Publics\MicroTest\InfraStudent\obj\Debug\net8.0\InfraStudent.dll
+B:\Git\Publics\MicroTest\InfraStudent\obj\Debug\net8.0\refint\InfraStudent.dll
+B:\Git\Publics\MicroTest\InfraStudent\obj\Debug\net8.0\InfraStudent.pdb
+B:\Git\Publics\MicroTest\InfraStudent\obj\Debug\net8.0\ref\InfraStudent.dll

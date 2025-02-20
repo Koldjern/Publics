@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gurCPW2lOUA=",
+  "dgSpecHash": "LqTVWWi/1Po=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Anders Søndergaard\\Desktop\\JAVA\\JavaHomeWork\\S3\\C#\\MicroTest\\InfraSport\\InfraSport.csproj",
+  "projectFilePath": "B:\\Git\\Publics\\MicroTest\\InfraSport\\InfraSport.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anders Søndergaard\\.nuget\\packages\\awssdk.core\\3.7.400.36\\awssdk.core.3.7.400.36.nupkg.sha512",
     "C:\\Users\\Anders Søndergaard\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.402\\awssdk.dynamodbv2.3.7.402.nupkg.sha512",

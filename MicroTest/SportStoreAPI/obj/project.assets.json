@@ -3980,11 +3980,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anders Søndergaard\\Desktop\\JAVA\\JavaHomeWork\\S3\\C#\\MicroTest\\SportStoreAPI\\SportStoreAPI.csproj",
+      "projectUniqueName": "B:\\Git\\Publics\\MicroTest\\SportStoreAPI\\SportStoreAPI.csproj",
       "projectName": "SportStoreAPI",
-      "projectPath": "C:\\Users\\Anders Søndergaard\\Desktop\\JAVA\\JavaHomeWork\\S3\\C#\\MicroTest\\SportStoreAPI\\SportStoreAPI.csproj",
+      "projectPath": "B:\\Git\\Publics\\MicroTest\\SportStoreAPI\\SportStoreAPI.csproj",
       "packagesPath": "C:\\Users\\Anders Søndergaard\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anders Søndergaard\\Desktop\\JAVA\\JavaHomeWork\\S3\\C#\\MicroTest\\SportStoreAPI\\obj\\",
+      "outputPath": "B:\\Git\\Publics\\MicroTest\\SportStoreAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4006,20 +4006,20 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Anders Søndergaard\\Desktop\\JAVA\\JavaHomeWork\\S3\\C#\\MicroTest\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\Anders Søndergaard\\Desktop\\JAVA\\JavaHomeWork\\S3\\C#\\MicroTest\\Application\\Application.csproj"
+            "B:\\Git\\Publics\\MicroTest\\Application\\Application.csproj": {
+              "projectPath": "B:\\Git\\Publics\\MicroTest\\Application\\Application.csproj"
             },
-            "C:\\Users\\Anders Søndergaard\\Desktop\\JAVA\\JavaHomeWork\\S3\\C#\\MicroTest\\AppSport\\AppSport.csproj": {
-              "projectPath": "C:\\Users\\Anders Søndergaard\\Desktop\\JAVA\\JavaHomeWork\\S3\\C#\\MicroTest\\AppSport\\AppSport.csproj"
+            "B:\\Git\\Publics\\MicroTest\\AppSport\\AppSport.csproj": {
+              "projectPath": "B:\\Git\\Publics\\MicroTest\\AppSport\\AppSport.csproj"
             },
-            "C:\\Users\\Anders Søndergaard\\Desktop\\JAVA\\JavaHomeWork\\S3\\C#\\MicroTest\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Anders Søndergaard\\Desktop\\JAVA\\JavaHomeWork\\S3\\C#\\MicroTest\\Domain\\Domain.csproj"
+            "B:\\Git\\Publics\\MicroTest\\Domain\\Domain.csproj": {
+              "projectPath": "B:\\Git\\Publics\\MicroTest\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\Anders Søndergaard\\Desktop\\JAVA\\JavaHomeWork\\S3\\C#\\MicroTest\\InfraSport\\InfraSport.csproj": {
-              "projectPath": "C:\\Users\\Anders Søndergaard\\Desktop\\JAVA\\JavaHomeWork\\S3\\C#\\MicroTest\\InfraSport\\InfraSport.csproj"
+            "B:\\Git\\Publics\\MicroTest\\InfraSport\\InfraSport.csproj": {
+              "projectPath": "B:\\Git\\Publics\\MicroTest\\InfraSport\\InfraSport.csproj"
             },
-            "C:\\Users\\Anders Søndergaard\\Desktop\\JAVA\\JavaHomeWork\\S3\\C#\\MicroTest\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Anders Søndergaard\\Desktop\\JAVA\\JavaHomeWork\\S3\\C#\\MicroTest\\Infrastructure\\Infrastructure.csproj"
+            "B:\\Git\\Publics\\MicroTest\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "B:\\Git\\Publics\\MicroTest\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
